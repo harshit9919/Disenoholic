@@ -1898,6 +1898,7 @@ header .nav-white-text .navbar-nav > li.active a:hover, .nav-white-text ul.nav >
     -webkit-background-size: cover;
     background-size: cover;
     background-attachment: fixed;
+    object-fit: cover;
 }
 .single-version .header-appear .menu_bars span {
     background:#fff;
